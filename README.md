@@ -9,7 +9,7 @@ I'm a passionate programmer with a couple years of experience (not counting my o
 ### Tech stack
 #### I know those ...
 
-*I tend to rely on latest versions*
+*With a disclaimer, that I tend to rely on latest versions and try to use new features where it is possible*
 
 ##### Backend
 
