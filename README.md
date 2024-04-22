@@ -9,24 +9,33 @@ I'm a passionate programmer with a couple years of experience (not counting my o
 ### Tech stack
 #### I know those ...
 
-- BE
-  - C# + .NET 7
+*I tend to rely on latest versions*
+
+##### Backend
+
+  - C# + .NET
   - Entity Framework Core
   - MassTransit
   - RabbitMQ 
   - PostgreSQL
   - MS SQL Server (PostgeSQL is better)
-- FE 
+ 
+##### Frontend 
+
   - Angular + RxJS + NgRx
   - TypeScript
   - JavaScript (TS is better though there are always things that need to be in plain JS)
   - HTML
   - SCSS
-- Concepts
+
+##### Concepts
+
   - Domain Driven Design (DDD)
   - Microservices
   - REST APIs
-- Tools
+  
+##### Tools
+  
   - Docker
   - Azure
   - Git
