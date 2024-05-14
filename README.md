@@ -6,7 +6,8 @@
     let kudlaty = Me {
         intro: "Hello, I'm Łukasz, a full-stack developer",
         email: "pm.me.molecule302@passmail.net",
-        about_me: "I'm a FOSS enthusiast and nerd. Besides that I love good stories, no matter if in games of books",
+        about_me: r#"I'm a FOSS enthusiast and nerd.
+            Besides that I love good stories, no matter if in games or in books"#,
         tech_stack: TechStack {
             backend: vec![
                 "C#",
