@@ -32,7 +32,13 @@
             "CQRS",
             "Event Sourcing",
         ],
-        learing: vec!["Rust", "Bevy", "TDD", "AI"],
+        learing: vec![
+            "Rust",
+            "actix-web",
+            "tokio", 
+            "Bevy", 
+            "TDD"
+        ],
     };
 ```
 
