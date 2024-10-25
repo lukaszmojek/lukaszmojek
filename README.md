@@ -12,6 +12,7 @@
             backend: vec![
                 "C#",
                 "Entity Framework Core",
+                "Dapper",
                 "MassTransit",
                 "RabbitMQ",
                 "PostgreSQL",
