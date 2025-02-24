@@ -44,4 +44,4 @@
 ```
 
 #### Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=lukaszmojek&theme=omni&border_radius=10&background=000000&border=2C4F00&stroke=2C4F00&ring=C9C400&fire=00E228&currStreakNum=C9C400&sideNums=C9C400&currStreakLabel=00E228&sideLabels=00E228&dates=8322FF&excludeDaysLabel=8322FF&hide_longest_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=merko&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
